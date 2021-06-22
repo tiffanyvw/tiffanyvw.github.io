@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/adriannewu
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://adriannewu.com
+  * I am adriannewu (https://keybase.io/adriannewu) on keybase.
+  * I have a public key ASBDlkzGuIKifBfanKB6PUUJ8PiF-OBhM_oFMOL_el-F3Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012043964cc6b882a27c17da9ca07a3d4509f0f885f8e06133fa0530e2ff7a5f85dc0a",
+      "host": "keybase.io",
+      "kid": "012043964cc6b882a27c17da9ca07a3d4509f0f885f8e06133fa0530e2ff7a5f85dc0a",
+      "uid": "c1fc4f1059af81e81fb74eb79e9aa919",
+      "username": "adriannewu"
+    },
+    "merkle_root": {
+      "ctime": 1624353077,
+      "hash": "e0288f66c16eb193e5a8d24c56ebc667ac7ba6ce960e066d27b9fb315ad08814428d811c95dd7e621b2bcccde1e0187c01ce5dd8e3127a5afae67a44f2fe7eb7",
+      "hash_meta": "b8cab77a176646c4aae9ee65832e088b9ac944ff3592b39fea005d7bb883aa1f",
+      "seqno": 20232847
+    },
+    "service": {
+      "entropy": "Lo78Efdsp+dJBpbhYYTWEtVK",
+      "hostname": "adriannewu.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.2"
+  },
+  "ctime": 1624353108,
+  "expire_in": 504576000,
+  "prev": "a533077c8e65173133ca27f206e0e9afd956cc18983784f9d44926da26d311f2",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQ5ZMxriConwX2pygej1FCfD4hfjgYTP6BTDi/3pfhdwKp3BheWxvYWTESpcCBcQgpTMHfI5lFzEzyifyBuDpr9lWzBiYN4T51Ekm2ibTEfLEIIU188PEHi1EGPQmuKjyOf3x1RADbjv+5OepvrQje7+EAgHCo3NpZ8RAvuppH9oGb4owiRnhm3VJIyEFl4jH37nG1os9Qk5RJ/JaVFVs3T9Sw98orIGQrKwsRfOzIT/Qw3okrPbyfupICKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMdoV0sWTvYXQpJ89wWULPTrqq4ATPWzyXmnqfynJTLUo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/adriannewu
+
+==================================================================
